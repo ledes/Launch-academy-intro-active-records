@@ -1,4 +1,4 @@
-# Sinatra Active Record Starter Kit
+# Sinatra Active Record Starter Kit.
 
 This template provides a basic [Sinatra](http://www.sinatrarb.com/) application
 that includes:
